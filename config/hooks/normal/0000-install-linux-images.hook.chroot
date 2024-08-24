@@ -1,0 +1,5 @@
+#!/bin/bash
+
+apt-get update
+
+apt-get install -t testing linux-headers-6.10.4-amd64 linux-image-6.10.4-amd64
