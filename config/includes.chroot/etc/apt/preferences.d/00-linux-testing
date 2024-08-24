@@ -1,0 +1,11 @@
+Package: linux-image-6.10.4*
+Pin: release a=testing
+Pin-Priority: 1001
+
+Package: linux-headers-6.10.4*
+Pin: release a=testing
+Pin-Priority: 1001
+
+Package: *
+Pin: release a=testing
+Pin-Priority: 1
